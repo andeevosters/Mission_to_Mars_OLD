@@ -1,10 +1,12 @@
 # My Files
 In-Class/
-index.html
 Notes/
 Practice/
 Practice.ipynb
 .DS_Store
+Other/
+chromedriver
+templates/indexOriginal.html
 
 
 
